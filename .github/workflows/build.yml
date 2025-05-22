@@ -1,4 +1,4 @@
-name: build
+name: Debug Build CI
 
 on:
   - workflow_dispatch
